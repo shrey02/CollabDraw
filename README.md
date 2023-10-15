@@ -26,8 +26,10 @@ Check out the live demo of Collaboard [here](https://collaboard.vercel.app/).
 
 ## Demo
 
-![all-restaurants-page]!(image.png)
-![restaurant-menu-page]!(image-1.png)
+![image](https://github.com/shrey02/CollabDraw/assets/63815222/1c32af13-436a-4042-acdd-5ceb070794d6)
+
+![image](https://github.com/shrey02/CollabDraw/assets/63815222/b0bfdcec-d4af-43a2-b472-e00f3efc3c81)
+
 
 ## Getting Started
 
