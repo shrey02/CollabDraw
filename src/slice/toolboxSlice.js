@@ -23,7 +23,7 @@ export const toolboxSlice = createSlice({
       state[action.payload.item].color = action.payload.color;
     },
     changeBrushSize: (state, action) => {
-      state[action.payload.item].color = action.payload.color;
+        state[action.payload.item].size = action.payload.size;
     },
   },
 });
